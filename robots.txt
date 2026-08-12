@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://centaur-dubi.github.io/handbook-jl4vy0/sitemap.xml
